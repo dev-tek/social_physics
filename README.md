@@ -16,11 +16,11 @@ What do I use?
 Google Charts - https://developers.google.com/chart
 
 Python3 - https://www.python.org/   https://docs.python.org/3/library/index.html
-    |
+    
     matplotlib - https://matplotlib.org/
-    |
+    
     scipy - https://scipy.org/
-    |
+    
     numpy - https://numpy.org/
    
 JavaScript Object Notation (JSON) - https://datatracker.ietf.org/doc/html/rfc7159
