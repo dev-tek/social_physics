@@ -32,7 +32,7 @@ Cascading Style Sheets (CSS) - https://www.w3schools.com/css/default.asp
 
 Listed above are some tools and resources you can use to develop your own data analysis and visualizations. 
 
-I will adding to this repository as time allows. I have heard it said,“Without data, you're just another person with an opinion.”
+I will be adding to this repository as time allows. I have heard it said,“Without data, you're just another person with an opinion.”
 
 Grab some data check it for accuracy against disparate, varied and multiple sources. Then have fun with datasci and dataviz as you inform yourself
 
