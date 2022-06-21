@@ -1,4 +1,4 @@
-# Social Physics - Data Anlysis and Visualization
+# Social Physics - Data Analysis and Visualization
 Societal and Cultural Data Analysis
 
 Why is this here?
