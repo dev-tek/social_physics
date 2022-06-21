@@ -34,7 +34,7 @@ Data sources
 
 Google Data Search - https://datasetsearch.research.google.com/
 
-US Federal Government's open data initiative - [data](https://data.gov/)
+US Federal Government's open data initiative - https://data.gov/)
 
 Our World in Data - https://ourworldindata.org/
 
