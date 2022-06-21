@@ -30,18 +30,6 @@ Hypertext Markup Language (HTML) - https://www.w3schools.com/
 Cascading Style Sheets (CSS) - https://www.w3schools.com/css/default.asp
 
 
-Listed above are some tools and resources you can use to develop your own data analysis and visualizations. 
-
-I will be adding to this repository as time allows. I have heard it said,“Without data, you're just another person with an opinion.”
-
-Grab some data check it for accuracy against disparate, varied and multiple sources. Then have fun with datasci and dataviz as you inform yourself
-
-and not rely solely on anecdotal opinion. Right? 
-
-Cheers,
-
-M.
-
 Data sources
 
 Google Data Search - https://datasetsearch.research.google.com/
@@ -49,6 +37,23 @@ Google Data Search - https://datasetsearch.research.google.com/
 US Federal Government's open data initiative - [data](https://data.gov/)
 
 Our World in Data - https://ourworldindata.org/
+
+
+
+Listed above are some tools and resources you can use to develop your own data analysis and visualizations. 
+
+I will be adding to this repository as time allows. I have heard it said,“Without data, you're just another person with an opinion.”
+
+Grab some data check it for accuracy against disparate, varied and multiple sources. Then have fun with datasci and dataviz as you inform 
+
+yourself and others possibly. In the market place of ideas, arm yourself with facts and data processing techniques
+
+and not rely solely on anecdotal opinion or social media. Maybe use Social physics, right? 
+
+Cheers,
+
+M.
+
 
 
 
