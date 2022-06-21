@@ -1,8 +1,56 @@
 <html>
   <head>
-    <!--Load the AJAX API-->
-    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
-    <script type="text/javascript">
+      
+<style>
+* {
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Style the top navigation bar */
+.topnav {
+  overflow: hidden;
+  background-color: black;
+}
+
+/* Style the topnav links */
+.topnav a {
+  float: left;
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Change color on hover */
+.topnav a:hover {
+  background-color: white;
+  color: black;
+}
+
+/* Style the content */
+.content {
+  background-color: white;
+  padding: 10px;
+  height: 200px; /* Should be removed. Only for demonstration */
+}
+
+/* Style the footer */
+.footer {
+  background-color: black;
+  padding: 15px;
+}
+</style>
+      
+   <!--Load the AJAX API-->
+<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+<script type="text/javascript">
 
       // Load the Visualization API and the corechart package.
       google.charts.load('current', {'packages':['corechart']});
@@ -18,7 +66,7 @@
         // Create the data table.
         var data = new google.visualization.DataTable();
         data.addColumn('string', 'Topping');
-        data.addColumn('number', 'Percentile');
+        data.addColumn('number', 'Percentage:');
         data.addRows([
           ['Female NEWS Sources', 20],
           ['Female NEWS Production Participation', 24],
@@ -29,43 +77,95 @@
         ]);
 
         // Set chart options
-        var options = {'title':'6 metrics: Gender Equality Female Representation in NEWS media',
+        var options = {'title':'Gender Equality Female Representation in NEWS media',
                        'width':800,
-                       'height':700};
+                       'height':600};
 
         // Instantiate and draw our chart, passing in some options.
         var chart = new google.visualization.BarChart(document.getElementById('chart_div'));
         chart.draw(data, options);
       }
-    </script>
+  </script>
+      
   </head>
 
   <body>
-      <center>
-    <!--Div that will hold the pie chart-->
-    <div id="chart_div"></div>
-          
-          data credit: <a href="https://www.globalcitizen.org/en/">globalcitizen.org</a>
-          
-      </center>
       
-      <center>
-      
-      
-      <h2>Concentration of media ownership (also known as media consolidation or media convergence) </p>
-          is a process whereby progressively fewer individuals or organizations control increasing shares of the mass media.</h2>
-      
-      
-     <a href="https://human-as-media.com/2020/12/28/ownership-of-the-media-it-is-not-what-you-think-it-must-be-2/"><img 
-                                                                                                                        src="media_concentration.jpg" alt="" width="595" height="362"></a>
-                                                                                                                       
-          image credit: <a href="https://human-as-media.com/">human-as-media.com</a>
-                                                                                                  
-                                                                                                  
-  </center>
+  <div class="topnav">
+  <a href="https://www.globalcitizen.org/">Global Citizen</a>
+  <a href="https://human-as-media.com/">Human as Media</a>
+  <a href="https://submarine-cable-map-2021.telegeography.com/>TeleGeography</a>
+  <a href="https://submarine-cable-map-2021.telegeography.com/>TeleGeography</a>
+  <a href="https://datasetsearch.research.google.com/"/>Google Data Search</a>
+  </div>
 
+        &nbsp;</p>
+
+        &nbsp;</p>
+
+<center>
+        
+<h2>6 Metrics</h2 
+
+    <!--Div that will hold the pie chart-->
+          <div id="chart_div"></div> 
+          
+Data Credit: <a href="https://www.globalcitizen.org/>globalcitizen.org</a>
+             
+        
       
-      1190 x 724 
+Data Credit: <a href="https://www.globalcitizen.org/>globalcitizen.org</a>
+
+        &nbsp;</p>
+
+        &nbsp;</p>
+
+        &nbsp;</p>
+ 
+<div align="justified";>     
+    <h2>Concentration of media ownership</h2 
+        (also known as media consolidation or media convergence) 
+        is a process whereby progressively fewer individuals or organizations 
+        control increasing shares of the mass media.
+</d>      
+      
+    
+ <a href="https://human-as-media.com/2020/12/28/ownership-of-the-media-it-is-not-what-you-think-it-must-be-2/"><img 
+                                                                                                                        src="media_concentration.jpg" alt="" width="595" height="362"></a> </p>
+                                                                                                                       
+        Image Credit: <a href="https://human-as-media.com/">human-as-media.com</a></p>
+        
+        &nbsp;</p>
+
+        &nbsp;</p>
+           
+<h2>Global Submarine Fiber Map</h2>
+              
+     <a href="https://submarine-cable-map-2021.telegeography.com/"><img 
+                                                                                                                        src="submarine_cable_map.png" alt="Submarine Cable Map" width="595" height="362"></a></p>
+                                                                                                                       
+Image Credit: <a href="submarine-cable-map-2021.telegeography.com/">submarine-cable-map-2021.telegeography.com</a>
+
+   &nbsp;</p>
+
+   &nbsp;</p>
+
+   &nbsp;</p>
+   
+   &nbsp;</p>
+
+<p><h3>Social Physics - Data Visualization of Societal and Cultural Metrics</h3></p>
+
+ &nbsp;</p>
+                  
+MIT License Copyright (c) 2022 | opensource.org/licenses/MIT
+                                                                                                  
+                               
+</center>
+
+ &nbsp;</p>
+
+<div class="footer"></div>
       
       
       
