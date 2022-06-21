@@ -5,9 +5,9 @@ Why is this here?
 
 This is where I generate data vizualizations of all types of data. I was looking at metrics. I wanted to conveyy the information clearly and efficiently.
 
-Over time this repository will reflect my efforts. This repo in its entirety is free and opensource. Some of the data and graphics/images are copyright
+Over time this repository will reflect my efforts. This repo in its entirety is free and opensource. Some of the data and graphics / images are 
 
-by their owners. Where appropiate, I credit and or provide direct hyperlinks to the prospective owners copyrighted material.
+copyright by their owners. Where appropiate, I credit and or provide direct hyperlinks to the prospective owners copyrighted material.
 
 This repo is exercise in data visualization. Subject matter is based soley on data availability and my preference or pursuits of interest.
 
