@@ -1,0 +1,73 @@
+<html>
+  <head>
+    <!--Load the AJAX API-->
+    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+    <script type="text/javascript">
+
+      // Load the Visualization API and the corechart package.
+      google.charts.load('current', {'packages':['corechart']});
+
+      // Set a callback to run when the Google Visualization API is loaded.
+      google.charts.setOnLoadCallback(drawChart);
+
+      // Callback that creates and populates a data table,
+      // instantiates the pie chart, passes in the data and
+      // draws it.
+      function drawChart() {
+
+        // Create the data table.
+        var data = new google.visualization.DataTable();
+        data.addColumn('string', 'Topping');
+        data.addColumn('number', 'Percentile');
+        data.addRows([
+          ['Female NEWS Sources', 20],
+          ['Female NEWS Production Participation', 24],
+          ['NEWS Stories Explicitly Challenge Gender Stereotypes. ', 4],
+          ['Female Political and Governmental NEWS Coverage Equity ', 16],
+          ['Only 6% of NEWS stories highlight issues of gender equality or inequality.', 6],
+          ['Women Reporters Responsible for NEWS stories as a Percentile.', 37],
+        ]);
+
+        // Set chart options
+        var options = {'title':'6 metrics: Gender Equality Female Representation in NEWS media',
+                       'width':800,
+                       'height':700};
+
+        // Instantiate and draw our chart, passing in some options.
+        var chart = new google.visualization.BarChart(document.getElementById('chart_div'));
+        chart.draw(data, options);
+      }
+    </script>
+  </head>
+
+  <body>
+      <center>
+    <!--Div that will hold the pie chart-->
+    <div id="chart_div"></div>
+          
+          data credit: <a href="https://www.globalcitizen.org/en/">globalcitizen.org</a>
+          
+      </center>
+      
+      <center>
+      
+      
+      <h2>Concentration of media ownership (also known as media consolidation or media convergence) </p>
+          is a process whereby progressively fewer individuals or organizations control increasing shares of the mass media.</h2>
+      
+      
+     <a href="https://human-as-media.com/2020/12/28/ownership-of-the-media-it-is-not-what-you-think-it-must-be-2/"><img 
+                                                                                                                        src="media_concentration.jpg" alt="" width="595" height="362"></a>
+                                                                                                                       
+          image credit: <a href="https://human-as-media.com/">human-as-media.com</a>
+                                                                                                  
+                                                                                                  
+  </center>
+
+      
+      1190 x 724 
+      
+      
+      
+  </body>
+</html>
