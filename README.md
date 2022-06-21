@@ -46,9 +46,9 @@ I will be adding to this repository as time allows. I have heard it said,“With
 
 Grab some data check it for accuracy against disparate, varied and multiple sources. Then have fun with datasci and dataviz as you inform 
 
-yourself and others possibly. In the market place of ideas, arm yourself with facts and data processing techniques
+yourself and others. In the market place of ideas, arm yourself with facts and data processing techniques
 
-and please dont rely solely on anecdotal opinion, social media or a guess. Utilize Social physics possibly, right? 
+and please do not rely solely on anecdotal opinion, social media or a guess. Utilize Social physics possibly, right? 
 
 Cheers,
 
