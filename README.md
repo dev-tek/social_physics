@@ -48,7 +48,7 @@ Grab some data check it for accuracy against disparate, varied and multiple sour
 
 yourself and others possibly. In the market place of ideas, arm yourself with facts and data processing techniques
 
-and not rely solely on anecdotal opinion or social media. Maybe use Social physics, right? 
+and please dont rely solely on anecdotal opinion, social media or a guess. Utilize Social physics possibly, right? 
 
 Cheers,
 
