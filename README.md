@@ -13,6 +13,8 @@ This repo is exercise in data visualization. Subject matter is based soley on da
 
 What do I use?
 
+https://observablehq.com/@datadev?tab=profile
+
 Google Charts - https://developers.google.com/chart
 
 Python3 - https://www.python.org/   https://docs.python.org/3/library/index.html
