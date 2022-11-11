@@ -40,7 +40,6 @@ US Federal Government's open data initiative - https://data.gov/
 
 Our World in Data - https://ourworldindata.org/
 
-<iframe src="https://ourworldindata.org/grapher/hourly-earnings-male-vs-female" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
 Listed above are some tools and resources you can use to develop your own data analysis and visualizations. 
 
